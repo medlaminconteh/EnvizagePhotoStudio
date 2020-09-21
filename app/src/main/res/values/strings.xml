@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Envizage Photo Studio</string>
+    <string name="bookings">BOOKINGS</string>
+    <string name="admin">ADMIN</string>
+    <string name="gallery">GALLERY</string>
+    <string name="input_detail">INPUT DETAIL</string>
+    <string name="welcome">ENVIZAGE PHOTO STUDIO</string>
+    <string name="todo">TODO</string>
+    <string name="envizage_photo_studio">ENVIZAGE PHOTO STUDIO</string>
+    <string name="customer_name">customer Name</string>
+    <string name="password">Password</string>
+    <string name="login_in">LOGIN IN</string>
+    <string name="username">Username</string>
+    <string name="administrative_login">ADMINISTRATIVE LOGIN</string>
+    <string name="admin_dashboard">ADMIN DASHBOARD</string>
+
+</resources>
